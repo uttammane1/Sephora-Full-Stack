@@ -1,4 +1,4 @@
-<!-- # Sephora Clone 🌟
+# Sephora Clone 🌟
 
 ## About the Project
 
@@ -104,4 +104,4 @@ To get started with this project locally, follow these steps:
     ```bash
     cd Sephora-Frontend
     npm run dev
-     -->
+    
