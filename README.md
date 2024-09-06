@@ -73,7 +73,7 @@ To get started with this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KaranChauhanji/Sephora_Clone.git
+   git clone https://github.com/uttammane1/Sephora-Full Stack.git
 
 2. Navigate to the project directory:
 
