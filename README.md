@@ -2,7 +2,7 @@
 
 ## About the Project
 
-Sephora Clone is a full-stack e-commerce website built using the MERN stack. This project replicates the user experience of the Sephora website, providing a seamless and interactive interface for users to browse, search, and purchase beauty products. It includes both frontend and backend components, offering a fully responsive and pleasant user interface.
+Project Description:- Sephora Clone is a full-stack e-commerce website built using the MERN stack. This project replicates the user experience of the Sephora website, providing a seamless and interactive interface for users to browse, search, and purchase beauty products. It includes both frontend and backend components, offering a fully responsive and pleasant user interface.
 
 You can view the deployed project here: [Sephora Clone](https://sephora-clone-pi.vercel.app/) 🚀
 
